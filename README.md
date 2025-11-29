@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/7MichalKozlik7/Empiria/main/github/screenshots/screenshot_1.png" alt="Empiria" width="100%">
+  <img src="screenshots/screenshot_1.png" alt="Empiria" width="100%">
 </p>
 
 <h1 align="center">Empiria</h1>
