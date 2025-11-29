@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/screenshot_1.png" alt="Empiria" width="100%">
+  <img src="https://raw.githubusercontent.com/7MichalKozlik7/Empiria/main/github/screenshots/screenshot_1.png" alt="Empiria" width="100%">
 </p>
 
 <h1 align="center">Empiria</h1>
@@ -101,9 +101,9 @@ Beautiful dark interface that follows your system preferences. Crafted with Swif
 
 ## Legal
 
-- [Privacy Policy](https://7michalkozlik7.github.io/Empiria/privacy.html)
-- [Terms of Service](https://7michalkozlik7.github.io/Empiria/terms.html)
-- [EULA](https://7michalkozlik7.github.io/Empiria/eula.html)
+- [Privacy Policy](https://7michalkozlik7.github.io/Empiria/github/privacy)
+- [Terms of Service](https://7michalkozlik7.github.io/Empiria/github/terms)
+- [EULA](https://7michalkozlik7.github.io/Empiria/github/eula)
 
 ---
 
