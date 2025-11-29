@@ -101,9 +101,9 @@ Beautiful dark interface that follows your system preferences. Crafted with Swif
 
 ## Legal
 
-- [Privacy Policy](privacy.html)
-- [Terms of Service](terms.html)
-- [End User License Agreement](eula.html)
+- [Privacy Policy](https://7michalkozlik7.github.io/Empiria/privacy.html)
+- [Terms of Service](https://7michalkozlik7.github.io/Empiria/terms.html)
+- [EULA](https://7michalkozlik7.github.io/Empiria/eula.html)
 
 ---
 
